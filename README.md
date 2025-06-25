@@ -10,25 +10,6 @@ A simple memory allocator for managing memory allocation in C programs.
 - Simplified interface for managing memory
 - Suitable for small to medium-sized projects
 
-## Installation
-
-To use the `memalloc` library in your project, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/memalloc.git
-   ```
-
-2. Include the `memalloc.h` header file in your project:
-   ```c
-   #include "path/to/memalloc.h"
-   ```
-
-3. Compile your project with the `memalloc` library:
-   ```bash
-   gcc -o my_program my_program.c path/to/memalloc.c
-   ```
-
 ## Usage Examples
 
 ### Allocating Memory
