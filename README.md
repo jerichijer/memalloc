@@ -1,7 +1,5 @@
 # memalloc
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 A simple memory allocator for managing memory allocation in C programs.
 
 ## Key Features and Highlights
@@ -29,7 +27,3 @@ memfree(numbers);
 ## Dependencies
 
 The `memalloc` library has no external dependencies.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
